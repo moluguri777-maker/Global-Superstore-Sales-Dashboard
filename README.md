@@ -75,7 +75,3 @@ The objective is to transform raw business data into actionable insights for bet
 https://github.com/moluguri777-maker/Global-Superstore-Sales-Dashboard
 
 ---
-
-## 🙌 Author
-
-**Pranitha Moluguri**
